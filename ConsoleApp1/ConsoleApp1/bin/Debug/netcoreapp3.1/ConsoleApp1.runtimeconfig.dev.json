@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\geoki\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\geoki\\.nuget\\packages"
+    ]
+  }
+}
