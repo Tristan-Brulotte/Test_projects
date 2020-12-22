@@ -40,7 +40,7 @@ namespace ConsoleApp1
             }
 
         static void DrawFloor()
-        {
+        {  # TOO LAZY TO LEARN HOW A FOR LOOP WORKS LOL
             int floorX = 0;
             Console.SetCursorPosition(floorX, 24);
             Console.Write("#");
